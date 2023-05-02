@@ -1,5 +1,5 @@
 # Origin of reference
-This exercise follows tutorial made by Gwen Faraday (FreeCodeCamp.org) Vue CDN https://www.youtube.com/watch?v=FXpIoQ_rT_c
+This exercise follows tutorial made by Gwen Faraday (FreeCodeCamp.org) Vue https://www.youtube.com/watch?v=FXpIoQ_rT_c
 
 ## Project setup
 ```
